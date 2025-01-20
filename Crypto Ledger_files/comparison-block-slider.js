@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){var e=window.matchMedia("(max-width: 768px)");e.addEventListener("change",(function(e){e.matches&&n()}));var n=function(){swiper2=new Swiper(".swiper-product-container",{slidesPerView:"auto",spaceBetween:"1%",centeredSlides:!0,navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}})};e.matches&&n()}));
